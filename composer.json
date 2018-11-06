@@ -1,0 +1,12 @@
+{
+    "name": "vagrant/guzzle-app",
+    "require": {
+        "guzzle/guzzle": "^3.9"
+    },
+    "authors": [
+        {
+            "name": "Benjamin Lampérier",
+            "email": "benjamin@iteracode.fr"
+        }
+    ]
+}
